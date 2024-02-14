@@ -8,17 +8,6 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=MinTrue)](https://solved.ac/MinTrue/)
 
-<h2 align="left">안녕하세요! 👋 신민혁 입니다.</h2>
-
-###
-
-<h2 align="left">About Me</h2>
-
-###
-
-<p align="center">Hello World!!</p>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
