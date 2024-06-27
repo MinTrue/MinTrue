@@ -26,6 +26,8 @@
 <!-- Body -->
 
 ### 🦾 Skills
+<hr>
+
 **🧑‍💻 Lang and Frameworks**
 <!-- 과정 상에서 배운 것, 포트폴리오에 포함된 것 -->
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
@@ -45,3 +47,6 @@
 ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=%EC%A6%90%EA%B2%81%EA%B2%8C+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90&)
