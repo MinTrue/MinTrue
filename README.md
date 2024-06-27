@@ -49,4 +49,4 @@
 ![notion](https://img.shields.io/badge/notion-000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&text=%EC%A6%90%EA%B2%81%EA%B2%8C+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90&)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&)
