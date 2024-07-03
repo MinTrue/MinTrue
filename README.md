@@ -25,11 +25,13 @@
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
 <!-- Body -->
 
-<h1>📚 STACKS</h1>
+<h1 align=center>📚 STACKS</h1>
+<br>
 
 <!-- 과정 상에서 배운 것, 포트폴리오에 포함된 것 -->
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ## 💻Development 
+<br>
 
 ### Front End
 <div>
