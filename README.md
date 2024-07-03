@@ -52,7 +52,7 @@
 
 ### 👂Communication
 ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-<img src="https://img.shields.io/badge/discord?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&)
