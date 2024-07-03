@@ -68,4 +68,5 @@
  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
  <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 </div>
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&)
