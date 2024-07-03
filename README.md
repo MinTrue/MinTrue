@@ -22,11 +22,7 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
 ![KakaoTalk](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)
-
-
 <!-- Body -->
-<div align=center>
-
 ### 🦾 Stacks
 
 <!-- 과정 상에서 배운 것, 포트폴리오에 포함된 것 -->
@@ -69,5 +65,3 @@
 <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&)
-
-</div>
