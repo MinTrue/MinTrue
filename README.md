@@ -31,7 +31,6 @@
 <!-- 과정 상에서 배운 것, 포트폴리오에 포함된 것 -->
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
 ## 💻Development 
-<br>
 
 ### Front End
 <div>
@@ -65,6 +64,7 @@
  <img src="https://img.shields.io/badge//vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white">
 </div>
+<br>
 
 ## 👂Communication
 <div>
@@ -72,5 +72,6 @@
  <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
  <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 </div>
+<br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&)
