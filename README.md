@@ -1,3 +1,4 @@
+<div text-align="center">
 <!-- Header -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=%EC%A6%90%EA%B2%81%EA%B2%8C+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90&fontSize=65&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=30&descAlign=50&descAlignY=60)
@@ -10,13 +11,11 @@
  * `배우는거`에 `항상` `적극적`으로 합니다! 😄
  * `자바 백엔드 경험`을 쌓아가는 중 입니다! 🎓
  * `개발자`이자 `디자인` 에도 관심이 많습니다.🤖
+ 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinTrue)](https://github.com/MinTrue/MinTrue/github-readme-stats)
+ 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinTrue)](https://github.com/MinTrue/github-readme-stats)
 
-<div>
- 
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinTrue)](https://github.com/MinTrue/MinTrue/github-readme-stats)
- 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinTrue)](https://github.com/MinTrue/github-readme-stats)
-</div>
 
 ####  📱SNS list📱
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMinTrue%2F&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
@@ -69,3 +68,5 @@
 <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&)
+
+</div>
