@@ -1,4 +1,4 @@
-<div text-align="center">
+<div align=center>
 <!-- Header -->
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=360&text=%EC%A6%90%EA%B2%81%EA%B2%8C+%EC%97%B4%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C+%EA%B0%9C%EB%B0%9C%ED%95%98%EC%9E%90&fontSize=65&fontAlign=50&fontAlignY=50&desc=Happy+Coding+Day&descSize=30&descAlign=50&descAlignY=60)
