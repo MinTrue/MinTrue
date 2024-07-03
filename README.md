@@ -55,14 +55,17 @@
 <br>
  
 ### 🛠Environment 
-![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
-![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+<div>
+ ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
+ ![github](https://img.shields.io/badge/github-181717.svg?&style=for-the-badge&logo=github&logoColor=white)
+ ![vscode](https://img.shields.io/badge/vscode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white)
+ ![eclipse](https://img.shields.io/badge/eclipse-2C2255.svg?&style=for-the-badge&logo=eclipseide&logoColor=white)
+</div>
 
 ### 👂Communication
-![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-<img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
-
+<div>
+ ![slack](https://img.shields.io/badge/slack-4A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+ <img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+ <img src="https://img.shields.io/badge/googledrive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white">
+</div>
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&)
