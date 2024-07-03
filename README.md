@@ -12,7 +12,9 @@
  * `개발자`이자 `디자인` 에도 관심이 많습니다.🤖
 
 <div>
+ 
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinTrue)](https://github.com/MinTrue/MinTrue/github-readme-stats)
+ 
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinTrue)](https://github.com/MinTrue/github-readme-stats)
 </div>
 
