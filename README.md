@@ -29,9 +29,9 @@
 
 <!-- 과정 상에서 배운 것, 포트폴리오에 포함된 것 -->
 <!-- Oracle의 요청으로 Java 로고가 Simple Icons에서 삭제되었기에 대신 OpenJDK의 로고를 사용 -->
-### 🧑‍💻Development 
+### Development 
 
-### Front End
+## Front End
 <div>
  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
@@ -47,7 +47,7 @@
  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </div>
-<hr>
+<br>
  
 ## DataBase
 <div>
